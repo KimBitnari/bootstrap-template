@@ -4,7 +4,7 @@
 
 
 ## Preview
-![screen-shot](https://github.com/yung6699/bootstrap-template/blob/master/img/screen.png)
+<!-- ![screen-shot](https://github.com/yung6699/bootstrap-template/blob/master/img/screen.png)
 
 **[View Live Preview](https://yung6699.github.io/bootstrap-template/)**
-
+ -->
